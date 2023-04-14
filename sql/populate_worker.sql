@@ -1,0 +1,10 @@
+'Max Pain', '1985-09-01', 'Senior', 8090;
+'Jango Frett', '1989-06-19', 'Middle', 5000;
+'Optimus Prime', '1990-05-23', 'Senior', 9000;
+'Boris Borisov', '1990-04-02', 'Junior', 900;
+'Arnold Hey', '1998-08-17', 'Junior', 1200;
+'Nicolas Cgae', '1970-02-06', 'Senior', 7000;
+'John Snow', '1999-03-08', 'Middle', 5000;
+'Kendrik Lamar', '1995-11-12', 'Middle', 4500;
+'Tony Versetti', '1980-07-17', 'Middle', 4000;
+'Scotty Doesntknow', '2004-02-20', 'Junior', 900
